@@ -1,0 +1,4 @@
+Courses,Duration,Effort,Prerequisites
+Theory of Computation (alternative),13 weeks,10 hours/week,"Mathematics for Computer Science, logic, algorithms"
+Computational Geometry,16 weeks,8 hours/week,"algorithms, C++"
+Game Theory,8 weeks,3 hours/week,"mathematical thinking, probability, calculus"

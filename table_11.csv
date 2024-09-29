@@ -1,0 +1,7 @@
+Courses,Duration,Effort,Prerequisites,Discussion
+Databases: Modeling and Theory,2 weeks,10 hours/week,core programming,chat
+Databases: Relational Databases and SQL,2 weeks,10 hours/week,core programming,chat
+Databases: Semistructured Data,2 weeks,10 hours/week,core programming,chat
+Machine Learning,11 weeks,9 hours/week,Basic coding,chat
+Computer Graphics (alternative),6 weeks,12 hours/week,"C++ or Java, linear algebra",chat
+Software Engineering: Introduction,6 weeks,8-10 hours/week,"Core Programming, and a sizable project",chat

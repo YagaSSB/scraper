@@ -1,0 +1,6 @@
+Courses,Duration,Effort,Prerequisites,Discussion
+Essence of Linear Algebra,-,-,high school math,chat
+Linear Algebra,14 weeks,12 hours/week,corequisite: Essence of Linear Algebra,chat
+Introduction to Numerical Methods,14 weeks,12 hours/week,Linear Algebra,chat
+Introduction to Formal Logic,10 weeks,4-8 hours/week,Set Theory,chat
+Probability,15 weeks,5-10 hours/week,Differentiation and Integration,chat

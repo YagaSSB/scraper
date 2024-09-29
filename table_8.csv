@@ -1,0 +1,5 @@
+Courses,Duration,Effort,Prerequisites,Discussion
+"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",4 weeks,4-8 hours/week,"any programming language, Mathematics for Computer Science",chat
+"Graph Search, Shortest Paths, and Data Structures",4 weeks,4-8 hours/week,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",chat
+"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",4 weeks,4-8 hours/week,"Graph Search, Shortest Paths, and Data Structures",chat
+"Shortest Paths Revisited, NP-Complete Problems and What To Do About Them",4 weeks,4-8 hours/week,"Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming",chat

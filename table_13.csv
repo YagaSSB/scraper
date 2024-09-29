@@ -1,0 +1,7 @@
+Courses,Duration,Effort,Prerequisites
+Parallel Programming,4 weeks,6-8 hours/week,Scala programming
+Compilers,9 weeks,6-8 hours/week,none
+Introduction to Haskell,14 weeks,-,-
+Learn Prolog Now! (alternative)*,12 weeks,-,-
+Software Debugging,8 weeks,6 hours/week,"Python, object-oriented programming"
+Software Testing,4 weeks,6 hours/week,"Python, programming experience"

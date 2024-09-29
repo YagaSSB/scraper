@@ -7,7 +7,7 @@ from tabulate import tabulate
 import sys
 
 
-# Web scraper software that finds tables on web-pages. 
+# Web scraper software that finds tables on web-pages.
 # Run "python scraper.py -h" for help
 def main():
     # Parsing arguments from the command line
@@ -98,8 +98,14 @@ def get_html_table(url_: str, location: int = 0, force=False):
         print("No table was found at the specified location.")
         return sys.exit(1)
 
-    table_titles_raw = html_table.find_all("th")
-    table_titles = [title.text.strip() for title in table_titles_raw]
+    # Attempts to create table titles if not in forced mode
+    table_titles = []
+    if force != True:
+        table_titles_raw = html_table.find_all("th")
+        table_titles = [title.text.strip() for title in table_titles_raw]
+
+    if len(table_titles) < 1:
+        force = True
 
     # Gets the data from the table
     final_table_data = []
@@ -113,6 +119,7 @@ def get_html_table(url_: str, location: int = 0, force=False):
         table_data = [data.text.strip() for data in table_data_raw]
         final_table_data.append(table_data)
 
+    # Creates table titles in forced mode
     if force == True:
         table_titles = final_table_data.pop(0)
 

@@ -1,0 +1,7 @@
+Courses,Duration,Effort,Prerequisites
+Web Security Fundamentals,5 weeks,4-6 hours/week,understanding basic web technologies
+Security Governance & Compliance,3 weeks,3 hours/week,-
+Digital Forensics Concepts,3 weeks,2-3 hours/week,Core Security
+"Secure Software Development: Requirements, Design, and Reuse",7 weeks,1-2 hours/week,Core Programming and Core Security
+Secure Software Development: Implementation,7 weeks,1-2 hours/week,"Secure Software Development: Requirements, Design, and Reuse"
+Secure Software Development: Verification and More Specialized Topics,7 weeks,1-2 hours/week,Secure Software Development: Implementation

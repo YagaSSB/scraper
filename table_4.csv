@@ -1,0 +1,8 @@
+Courses,Duration,Effort,Prerequisites,Discussion
+Systematic Program Design,13 weeks,8-10 hours/week,none,chat: part 1 / part 2
+"Programming Languages, Part A",5 weeks,4-8 hours/week,Systematic Program Design (Hear instructor),chat
+"Programming Languages, Part B",3 weeks,4-8 hours/week,"Programming Languages, Part A",chat
+"Programming Languages, Part C",3 weeks,4-8 hours/week,"Programming Languages, Part B",chat
+Class-based Program Design,13 weeks,5-10 hours/week,"Systematic Program Design, High School Math",chat
+Object-Oriented Design,13 weeks,5-10 hours/week,Class Based Program Design,chat
+Software Architecture,4 weeks,2-5 hours/week,Object Oriented Design,chat

@@ -1,0 +1,5 @@
+Courses,Duration,Effort,Additional Text / Assignments,Prerequisites,Discussion
+Build a Modern Computer from First Principles: From Nand to Tetris (alternative),6 weeks,7-13 hours/week,-,C-like programming language,chat
+Build a Modern Computer from First Principles: Nand to Tetris Part II,6 weeks,12-18 hours/week,-,"one of these programming languages, From Nand to Tetris Part I",chat
+Operating Systems: Three Easy Pieces,10-12 weeks,6-10 hours/week,-,Nand to Tetris Part II,chat
+Computer Networking: a Top-Down Approach,8 weeks,4–12 hours/week,Wireshark Labs,"algebra, probability, basic CS",chat
